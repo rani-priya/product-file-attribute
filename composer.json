@@ -1,5 +1,5 @@
 {
-    "name": "webkul/product-file-attribute",
+    "name": "raniwebkul/product-file-attribute",
     "description": "Webkul Magento2 Product Custom File Type Attribute Extension",
     "type":"magento2-module",
     "require": {
