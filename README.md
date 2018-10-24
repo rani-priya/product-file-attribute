@@ -14,6 +14,8 @@ Install the module via composer
 --------------------------
 Run the following commands in terminal-
 
+composer config repositories.product-file-attribute vcs https://github.com/rani-webkul/product-file-attribute.git
+
 composer require webkul/product-file-attribute dev-master
 
 php bin/magento setup:upgrade
